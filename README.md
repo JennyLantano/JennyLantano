@@ -28,7 +28,7 @@ I am Jenny Joy Lantano, a passionate coder with a flair for database management.
 
 ## Connect with Me
 
-- LinkedIn: [LinkedIn Profile](LinkedIn_Profile_Link)
+- LinkedIn: [LinkedIn Profile](www.linkedin.com/in/jennyjoylantano)
 - Email: jennyjoylantano@gmail.com
 
 Feel free to reach out if you have any questions or just want to connect! 😊
